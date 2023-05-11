@@ -5,6 +5,8 @@ The Strato branding is entirely derived from [Skyline](https://github.com/skylin
 <img src="/logo/strato-logo.png" width="60%" height="60%" title="Strato Logo">
 
 ### Banners
+The font used in the banners is [Rubik](https://fonts.google.com/specimen/Rubik).
+
 - Normal
 <img src="/banner/strato-banner.png" title="Strato Banner">
 
