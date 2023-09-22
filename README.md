@@ -13,6 +13,13 @@ The font used in the banners is [Rubik](https://fonts.google.com/specimen/Rubik)
 - Rounded (60px radius)
 <img src="/banner/strato-banner-rounded.png" title="Strato Banner - Rounded Corners">
 
+- 16:9
+<img src="/banner/strato-banner-16-9.png" title="Strato Banner 16:9">
+
+- 4:1
+<img src="/banner/strato-banner-4-1.png" title="Strato Banner 16:9">
+
+
 ## Credits
 - [lynxnb](https://github.com/lynxnb)
 - [riperiperi](https://github.com/riperiperi)
